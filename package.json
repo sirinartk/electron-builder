@@ -35,7 +35,7 @@
     "@types/is-ci": "^2.0.0",
     "@types/semver": "^6.0.1",
     "app-builder-bin": "3.0.1",
-    "archiver": "^3.0.0",
+    "archiver": "^5.3.1",
     "async-exit-hook": "^2.0.1",
     "bluebird-lst": "^1.0.9",
     "chalk": "^2.4.2",
@@ -54,11 +54,11 @@
     "lodash.isequal": "^4.5.0",
     "mime": "^2.4.4",
     "minimatch": "^3.0.4",
-    "normalize-package-data": "^2.5.0",
+    "normalize-package-data": "^3.0.3",
     "pako": "^1.0.10",
     "parse-color": "^1.0.0",
     "plist": "^3.0.1",
-    "read-config-file": "3.3.0",
+    "read-config-file": "6.4.0",
     "sanitize-filename": "^1.6.1",
     "sax": "^1.2.4",
     "semver": "^6.1.2",
@@ -67,8 +67,8 @@
     "sumchecker": "^3.0.0",
     "temp-file": "^3.3.3",
     "tunnel-agent": "^0.6.0",
-    "update-notifier": "^3.0.0",
-    "yargs": "^13.2.4"
+    "update-notifier": "^7.3.0",
+    "yargs": "^16.1.1"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
