@@ -54,7 +54,7 @@
     "is-ci": "^2.0.0",
     "read-config-file": "3.3.0",
     "sanitize-filename": "^1.6.1",
-    "update-notifier": "^3.0.0",
+    "update-notifier": "^4.0.0",
     "yargs": "^13.2.4",
     "lazy-val": "^1.0.4",
     "app-builder-lib": "0.0.0-semantic-release",
